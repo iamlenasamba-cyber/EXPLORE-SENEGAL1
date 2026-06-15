@@ -256,7 +256,74 @@ export default function Accueil() {
                 </div>
             </div>
         </section>
-        <section class="thiaba"></section>
+        <section class="thiaba">
+            <div class="sokhna1" >
+                    <div class="dieyna1" >
+                 
+                </div>
+                <div class="dieyna2">
+                    <div style="font-size: 21px; ">Le Thiéboudiène</div>
+                    <div style="font-size: 11px; line-height: 18px; "><i class="fa-solid fa-location-dot fa-xs" style="color: rgb(0, 0, 0);"></i> Dakar,Plateau</div>
+                     <div style="font-size: 17px; width: 65%;">Le temple du thiéboudienne — le plat national — préparé selon la recette ancestrale de Saint-Louis. Ambiance chaleureuse, tisanes de kinkeliba  et griot live le week-end.</div>
+                     <div style="position: absolute; top:67%; right:13.5%;"><i class="fa-solid fa-star fa-xs"
+                            style="color: rgb(195, 153, 0);"></i> <i class="fa-solid fa-star fa-xs"
+                            style="color: rgb(195, 153, 0);"></i> <i class="fa-solid fa-star fa-xs"
+                            style="color: rgb(195, 153, 0);"></i></div>
+                     <button style="font-size: 21px; background-color: rgb(87, 54, 37); font-weight:bold; padding-left:4%; padding-top:1%; padding-bottom:1%; color:white;  padding-right:4%; border-radius:5px; right:7%; position: absolute; bottom: 10%; border:none;">Réserver</button>
+                </div>
+            </div>
+
+
+             <div class="sokhna1" >
+                    <div class="dieyna1" >
+                 
+                </div>
+                <div class="dieyna2">
+                    <div style="font-size: 21px; ">Le Thiéboudiène</div>
+                    <div style="font-size: 11px; line-height: 18px; "><i class="fa-solid fa-location-dot fa-xs" style="color: rgb(0, 0, 0);"></i> Dakar,Plateau</div>
+                     <div style="font-size: 17px; width: 65%;">Le temple du thiéboudienne — le plat national — préparé selon la recette ancestrale de Saint-Louis. Ambiance chaleureuse, tisanes de kinkeliba  et griot live le week-end.</div>
+                     <div style="position: absolute; top:67%; right:13.5%;"><i class="fa-solid fa-star fa-xs"
+                            style="color: rgb(195, 153, 0);"></i> <i class="fa-solid fa-star fa-xs"
+                            style="color: rgb(195, 153, 0);"></i> <i class="fa-solid fa-star fa-xs"
+                            style="color: rgb(195, 153, 0);"></i></div>
+                     <button style="font-size: 21px; background-color: rgb(87, 54, 37); font-weight:bold; padding-left:4%; padding-top:1%; padding-bottom:1%; color:white;  padding-right:4%; border-radius:5px; right:7%; position: absolute; bottom: 10%; border:none;">Réserver</button>
+                </div>
+            </div>
+
+
+             <div class="sokhna1" >
+                    <div class="dieyna1" >
+                 
+                </div>
+                <div class="dieyna2">
+                    <div style="font-size: 21px; ">Le Thiéboudiène</div>
+                    <div style="font-size: 11px; line-height: 18px; "><i class="fa-solid fa-location-dot fa-xs" style="color: rgb(0, 0, 0);"></i> Dakar,Plateau</div>
+                     <div style="font-size: 17px; width: 65%;">Le temple du thiéboudienne — le plat national — préparé selon la recette ancestrale de Saint-Louis. Ambiance chaleureuse, tisanes de kinkeliba  et griot live le week-end.</div>
+                     <div style="position: absolute; top:67%; right:13.5%;"><i class="fa-solid fa-star fa-xs"
+                            style="color: rgb(195, 153, 0);"></i> <i class="fa-solid fa-star fa-xs"
+                            style="color: rgb(195, 153, 0);"></i> <i class="fa-solid fa-star fa-xs"
+                            style="color: rgb(195, 153, 0);"></i></div>
+                     <button style="font-size: 21px; background-color: rgb(87, 54, 37); font-weight:bold; padding-left:4%; padding-top:1%; padding-bottom:1%; color:white;  padding-right:4%; border-radius:5px; right:7%; position: absolute; bottom: 10%; border:none;">Réserver</button>
+                </div>
+            </div>
+
+
+             <div class="sokhna1" >
+                    <div class="dieyna1" >
+                 
+                </div>
+                <div class="dieyna2">
+                    <div style="font-size: 21px; ">Le Thiéboudiène</div>
+                    <div style="font-size: 11px; line-height: 18px; "><i class="fa-solid fa-location-dot fa-xs" style="color: rgb(0, 0, 0);"></i> Dakar,Plateau</div>
+                     <div style="font-size: 17px; width: 65%;">Le temple du thiéboudienne — le plat national — préparé selon la recette ancestrale de Saint-Louis. Ambiance chaleureuse, tisanes de kinkeliba  et griot live le week-end.</div>
+                     <div style="position: absolute; bottom:10%; right:0%;"><i class="fa-solid fa-star fa-xs"
+                            style="color: rgb(195, 153, 0);"></i> <i class="fa-solid fa-star fa-xs"
+                            style="color: rgb(195, 153, 0);"></i> <i class="fa-solid fa-star fa-xs"
+                            style="color: rgb(195, 153, 0);"></i></div>
+                     <button style="font-size: 21px; background-color: rgb(87, 54, 37); font-weight:bold; padding-left:4%; padding-top:1%; padding-bottom:1%; color:white;  padding-right:4%; border-radius:5px; right:7%; position: absolute; bottom: 10%; border:none;">Réserver</button>
+                </div>
+            </div>
+        </section>
     </div>
 
     `;

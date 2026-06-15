@@ -115,8 +115,8 @@ button:hover{
 
 .image{
     background-image:
-        linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-        url("../images/A.png");
+    linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+    url("../images/A.png");
     background-position: center;
     background-size: cover;
     height: 100%;
@@ -162,7 +162,7 @@ nav{
     position: relative;
     border-radius: 14px;
     height: 370px;
-    width: 360px;
+    width: 420px;
     background: white;
     box-shadow: 0 15px 30px rgba(0,0,0,0.2);
     overflow: hidden;
@@ -229,9 +229,38 @@ nav{
 }
 
 .thiaba{
-    height: 2000px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    height: 1300px;
     background-color: var(--tertiaire);
+    color: var(--primaire);
+
 }
+.sokhna1{
+    border: 1px solid;
+    height: 45%;
+    width: 45%;
+}
+.dieyna1{
+   
+    height: 57%;
+    width: 100%;
+    background-image: url(../images/M.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.dieyna2{
+    position: relative;
+     padding: 4%;
+    height: 90%;
+    width: 100%;
+}
+
+
 
 .KFP{
     height: 22%;
