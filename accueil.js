@@ -256,7 +256,7 @@ export default function Accueil() {
                 </div>
             </div>
         </section>
-        <section class="thiaba">coucouuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu</section>
+        <section class="thiaba">LENAAAAAAAAAAAA</section>
     </div>
 
     `;
