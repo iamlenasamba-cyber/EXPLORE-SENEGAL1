@@ -10,7 +10,7 @@ const routes = {
 
 export default function router() {
 
-    const path = location.hash.slice(1) || "/login";
+    const path = location.hash.slice(1) || "/accueil";
 
     const page = routes[path];
 
